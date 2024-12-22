@@ -14,3 +14,9 @@ EMAIL_PASSWORD="your_email_password"
 Replace the placeholder Amazon product URL in the script with your desired product link and set your target `BUY_PRICE`. Run the script, and it will scrape the product page, retrieve the current price, and notify you via email if the price is below your threshold.  
 
 This project demonstrates the integration of web scraping and email automation while prioritizing secure handling of credentials. Use responsibly, as web scraping can violate website terms of service.
+
+
+<img width="1397" alt="Screenshot 2024-12-22 at 17 05 33" src="https://github.com/user-attachments/assets/fc6ff41d-50dd-4f58-8108-7dd18aa04537" />
+![IMG_0313](https://github.com/user-attachments/assets/ee2141d8-cf6f-4844-a113-b0f9f0a77bb2)
+
+
